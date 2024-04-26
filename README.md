@@ -87,7 +87,7 @@ int main()
 ```
 
 ## OUTPUT:
-![Uploading 4.png…]()
+![4](https://github.com/varshinidevaraju/Linux-IPC-Message-Queues/assets/144870750/d5d138fe-c059-495c-ada5-a16b2048d37c)
 
 # RESULT:
 The programs are executed successfully.
